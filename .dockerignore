@@ -6,6 +6,7 @@ doc
 .gitignore
 .gitmodules
 .dockerignore
+dockerfile
 Dockerfile
 README.md
 remodora.service
